@@ -1,5 +1,6 @@
 -- copy and paste this into your executor
 -- this script works for Bedwars, and the new fortnite ripoff mode they created
+-- Creator: https://7granddadpgn.github.io/
 
 repeat task.wait() until game:IsLoaded() == true
 local injected = true
